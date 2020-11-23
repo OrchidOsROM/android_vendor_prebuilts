@@ -1,17 +1,17 @@
 include $(call first-makefiles-under,$(LOCAL_PATH))
 
 PRODUCT_PACKAGES += \
-    openLauncher \
-    PrivacyBrowser \
-    pep \
     AccountManager \
+    Amaze \
+    Barcode \
     BlokadaV4 \
+    Bromite \
+    MagiskManager \
     Metro \
-    OpenCamera \
     OpenTasks \
     QKSMS \
+    RootExplorer
     appwarden \
-    gappbrowser \
-    openLauncher \
     smart \
+    pep \
     taptap
