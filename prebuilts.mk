@@ -10,7 +10,7 @@ PRODUCT_PACKAGES += \
     Metro \
     OpenTasks \
     QKSMS \
-    RootExplorer
+    RootExplorer \
     appwarden \
     smart \
     pep \
